@@ -1,5 +1,9 @@
 
 ### .gitignore template for Altium and Eagle designs ###
+
+### General ###
+*.zip
+
 ### Altium ###
 
 # Previews Folders

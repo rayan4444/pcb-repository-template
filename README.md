@@ -5,7 +5,7 @@ This is a template repository for a PCB project. Using git allows you to keep tr
 Adding a picture here or in the next sections can be useful too.
 
 ![Eagle design](/assets/Eagle_design.png)
-![Assembled PCB](/assets/assembled_pcb.jpg)
+<img src ="/assets/assembled_pcb.jpg" width="400">
 
 ## Features
 This is where you list the things your PCB does. It is especially useful if your design has multiple boards. Ex:
@@ -69,7 +69,7 @@ As you design your board, you'll probably refer to a lot of online/other resourc
 ## About this template
 * Customize it to make it work for you!
 
-* Releases: everytime you manufacture a new version of your board, create a release tag with:
+* Releases: when you get a new version of your board made, create a release tag with:
     * gerber files
     * Schematic and board in pdf
     * assembly file/instructions
