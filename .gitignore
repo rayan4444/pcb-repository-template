@@ -1,0 +1,43 @@
+
+### .gitignore template for Altium and Eagle designs ###
+### Altium ###
+
+# Previews Folders
+**/__Previews/
+
+# PrjPCBStructure files #
+**/*.PrjPcbStructure
+
+# OutJob Files #
+**/*.OutJob
+
+# History Folders
+**/History/*
+
+# Project Logs
+Project\ Logs*/
+
+# Project Outputs
+Project\ Outputs*/
+
+# Auto-conversion notices
+*.PcbDoc.htm
+
+# Access lock file for dbLib sources
+**/*.ldb
+
+#debug logs
+debug.log
+
+#Altium malfunction outputs
+**/*.$$$
+
+### Eagle ###
+# schematic history & backup
+**/**.s#*
+
+# board history & backup
+**/**.b#*
+
+# scripts and script outputs
+**/**.scr
