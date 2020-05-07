@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=+3.3V_NET Pin=+3.3VREG-4
-Added Pin To Net: NetName=+3.3V_NET Pin=+3.3VREG-5
-Added Pin To Net: NetName=+3.3V_NET Pin=CP19-2
-Added Pin To Net: NetName=+3.3V_NET Pin=CP20-2
-Change Net Name : Old Net Name=NetCIP4_2 New Net Name=+3V_NET

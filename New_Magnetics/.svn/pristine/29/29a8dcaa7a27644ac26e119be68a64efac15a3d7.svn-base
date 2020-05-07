@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=+5V_NET Pin=P_FAN-1
-Removed Pin From Net: NetName=GND Pin=P_FAN-2
-Added Pin To Net: NetName=GND Pin=P_FAN-1
-Added Pin To Net: NetName=+5V_NET Pin=P_FAN-2
