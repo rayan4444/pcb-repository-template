@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=RSENSE_P Pin=CI1B-1
+Removed Pin From Net: NetName=NetCI1A_2 Pin=CI1B-2
+Removed Pin From Net: NetName=NetCI2A_1 Pin=CI2B-1
+Removed Pin From Net: NetName=SGND Pin=CI2B-2
+Removed Pin From Net: NetName=NetCV1A_1 Pin=CV1B-1
+Removed Pin From Net: NetName=NetCV1A_2 Pin=CV1B-2
+Removed Pin From Net: NetName=NetCV2A_1 Pin=CV2B-1
+Removed Pin From Net: NetName=GND Pin=CV2B-2
+Removed Pin From Net: NetName=NetCV1A_2 Pin=P_MAIN_OUT-1
+Removed Pin From Net: NetName=NetCV1A_2 Pin=RV3-2
+Removed Pin From Net: NetName=NetCV1A_1 Pin=RV9-2
+Removed Member From Class: ClassName=U_I_ADC_Buffering Member=CI1B
+Removed Member From Class: ClassName=U_I_ADC_Buffering Member=CI2B
+Removed Member From Class: ClassName=U_V_ADC_Buffering Member=CV1B
+Removed Member From Class: ClassName=U_V_ADC_Buffering Member=CV2B
+Change Component Footprint: Designator=CV1A Old Footprint=C1210 New Footprint=G-55
+Change Component Comment : Designator=CV1A Old Comment=10uF New Comment=22uF
+Change component parameters: Designator = "CV1A"; Footprint = "G-55"; UniqueID = "\CEHPAUNK\AGYOKJJA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/KRM55_25V-100V_E.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/KRM55_25V-100V_E.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead/Base Style"; Value = "J-Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KRM55WR72A156MH01K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "KRM55WR72A226MH01L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=5.61, 10=5.049, 100=3.8146 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-16292-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCV1A_1 Pin=P_MAIN_OUT-1
+Added Pin To Net: NetName=NetCV1A_1 Pin=RV3-2
+Added Pin To Net: NetName=NetCV1A_2 Pin=RV9-2

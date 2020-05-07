@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=+15V_NET Pin=+5VREG-1
+Removed Pin From Net: NetName=+15V_NET Pin=+15VREG-3
+Removed Pin From Net: NetName=+15V_NET Pin=+15VREG-4
+Removed Pin From Net: NetName=+15V_NET Pin=CP4-2
+Removed Pin From Net: NetName=+15V_NET Pin=CP10-2
+Removed Pin From Net: NetName=+15V_NET Pin=CP11-1
+Removed Pin From Net: NetName=+15V_NET Pin=CP12-1
+Removed Pin From Net: NetName=+15V_NET Pin=Driver_AB-1
+Removed Pin From Net: NetName=+15V_NET Pin=Driver_CD-1
+Removed Pin From Net: NetName=+15V_NET Pin=Power_SUPP-1
+Change Net Name : Old Net Name=+15V_NET New Net Name=Net+15VREG_5
+Added Pin To Net: NetName=+15V_NET Pin=+5VREG-1
+Added Pin To Net: NetName=+15V_NET Pin=+15VREG-3
+Added Pin To Net: NetName=+15V_NET Pin=+15VREG-4
+Added Pin To Net: NetName=+15V_NET Pin=CP4-2
+Added Pin To Net: NetName=+15V_NET Pin=CP10-2
+Added Pin To Net: NetName=+15V_NET Pin=CP11-1
+Added Pin To Net: NetName=+15V_NET Pin=CP12-1
+Added Pin To Net: NetName=+15V_NET Pin=Driver_AB-1
+Added Pin To Net: NetName=+15V_NET Pin=Driver_CD-1
+Added Pin To Net: NetName=+15V_NET Pin=Power_SUPP-1
+Added Net: Name=+15V_NET

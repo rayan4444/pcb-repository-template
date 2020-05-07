@@ -1,0 +1,3 @@
+Change Physical Footprint: Designator=+15VREG Old Footprint=KTT5_6P22X6P86 New Footprint=KTT5_6P22X6P86
+Change Physical Footprint: Designator=CP2 Old Footprint=CC0603N New Footprint=CC0603N
+Change Physical Footprint: Designator=CR3 Old Footprint=DIODE_SOD323_1P8 New Footprint=DIODE_SOD323_1P8

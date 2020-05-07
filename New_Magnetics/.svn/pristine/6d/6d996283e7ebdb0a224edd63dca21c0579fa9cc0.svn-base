@@ -1,0 +1,15 @@
+DRC Rules Export File for PCB: G:\My Drive\Dev\Front End Sim\PCB Design\Pilot_V1.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Het_PWR|Scope=Board|Minimum=27.56
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=8.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.20
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance_gnd|Scope=Board|Minimum=60.00
+RuleKind=Clearance|RuleName=Clearance_vbus|Scope=Board|Minimum=60.00
+RuleKind=Clearance|RuleName=Clearance_vbus_keepout|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=Clearance_dgnd|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=Clearance_gnd_adc|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=Clearance_gnd_adc_vbus|Scope=Board|Minimum=60.00
+RuleKind=Clearance|RuleName=Clearance_outa_inner2|Scope=Board|Minimum=40.00

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+1.5V_NET Pin=+1.5V-1
+Removed Pin From Net: NetName=+3.3V_NET Pin=+3.3V-1
+Removed Pin From Net: NetName=+3V_NET Pin=+3V-1
+Removed Pin From Net: NetName=+5V_NET Pin=+5V-1
+Removed Pin From Net: NetName=+15V_NET Pin=+15V-1
+Removed Pin From Net: NetName=+15V_SENSOR_NET Pin=+VSENSE-1
+Removed Pin From Net: NetName=-0.23V Pin=-0.23V-1
+Removed Pin From Net: NetName=-15V_SENSOR_NET Pin=-VSENSE-1
+Removed Member From Class: ClassName=U_Power_Stage Member=+1.5V
+Removed Member From Class: ClassName=U_Power_Stage Member=+3.3V
+Removed Member From Class: ClassName=U_Power_Stage Member=+3V
+Removed Member From Class: ClassName=U_Power_Stage Member=+5V
+Removed Member From Class: ClassName=U_Power_Stage Member=+15V
+Removed Member From Class: ClassName=U_Power_Stage Member=+VSENSE
+Removed Member From Class: ClassName=U_Power_Stage Member=-0.23V
+Removed Member From Class: ClassName=U_Power_Stage Member=-VSENSE

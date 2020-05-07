@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Pilot_V1_MutiBoardSchematic.MbsDoc
+Record=DiagramHierarchy|SourceDocument=Pilot_V1_MutiBoardSchematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=LaunchPad|Source=C:\ti\C2000Ware_2_00_00_03_Software\boards\LaunchPads\LAUNCHXL_F28379D\R2.0\design files\LAUNCHXL-F28379D_REV2.0.PrjPcb
+Record=SubProject|SourceDocument=Pilot_V1_MutiBoardSchematic.MbsDoc|ProjectPath=C:\ti\C2000Ware_2_00_00_03_Software\boards\LaunchPads\LAUNCHXL_F28379D\R2.0\design files\LAUNCHXL-F28379D_REV2.0.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Pilot_V1_MutiBoardSchematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=Pilot_Board|Source=Pilot_V1.PrjPCB
+Record=SubProject|SourceDocument=Pilot_V1_MutiBoardSchematic.MbsDoc|ProjectPath=Pilot_V1.PrjPCB

@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=GND_RING Old Footprint=7466005R New Footprint=7466005R
+Change Physical Footprint: Designator=P_MAIN_IN Old Footprint=7466005R New Footprint=7466005R
+Change Physical Footprint: Designator=P_MAIN_OUT Old Footprint=7466005R New Footprint=7466005R
+Change Physical Footprint: Designator=P_SPWM_AB Old Footprint=7466005R New Footprint=7466005R
+Change Physical Footprint: Designator=P_SPWM_CD Old Footprint=7466005R New Footprint=7466005R

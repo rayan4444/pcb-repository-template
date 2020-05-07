@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC_boot_AB_1 Pin=Driver_AB-3
+Removed Pin From Net: NetName=NetC_boot_CD_1 Pin=Driver_CD-3
+Removed Pin From Net: NetName=NetC_boot_AB_1 Pin=QA-4
+Removed Pin From Net: NetName=NetC_boot_CD_1 Pin=QC-4
+Added Pin To Net: NetName=NetDriver_AB_3 Pin=Driver_AB-3
+Added Pin To Net: NetName=NetDriver_AB_3 Pin=QA-4
+Added Net: Name=NetDriver_AB_3
+Added Pin To Net: NetName=NetDriver_CD_3 Pin=Driver_CD-3
+Added Pin To Net: NetName=NetDriver_CD_3 Pin=QC-4
+Added Net: Name=NetDriver_CD_3

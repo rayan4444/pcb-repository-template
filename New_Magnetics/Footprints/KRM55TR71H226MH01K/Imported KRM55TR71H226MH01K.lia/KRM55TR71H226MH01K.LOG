@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : KRM55TR71H226MH01K.LibPkg
+
+Section : G:\My Drive\Dev Folder\Front End Sim\PCB Design\Footprints\KRM55TR71H226MH01K\KRM55TR71H226MH01K.lia
+    Section : PCB Library - KRM55TR71H226MH01K.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token KRM55TR71H226MH01K On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 171
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - KRM55TR71H226MH01K.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 108
+        EndSection
+
+        Section : Generating SCH Library - KRM55TR71H226MH01K.SchLib
+        EndSection
+    EndSection
+EndSection

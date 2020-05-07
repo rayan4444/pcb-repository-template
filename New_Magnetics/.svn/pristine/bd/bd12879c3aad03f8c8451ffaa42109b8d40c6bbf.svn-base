@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SGND Pin=CI2A-2
+Removed Pin From Net: NetName=SGND Pin=CI2B-2
+Added Pin To Net: NetName=SGND Pin=CI2A-1
+Added Pin To Net: NetName=SGND Pin=CI2B-1
+Added Pin To Net: NetName=NetCI2A_2 Pin=CI2A-2
+Added Pin To Net: NetName=NetCI2A_2 Pin=CI2B-2
+Added Pin To Net: NetName=NetCI2A_2 Pin=RI2-2
+Added Net: Name=NetCI2A_2

@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=+15VREG Old Footprint=KTT5_6P22X6P86 New Footprint=KTT5_6P22X6P86
+Change Physical Footprint: Designator=C1 Old Footprint=U2-R New Footprint=U2-R
+Change Physical Footprint: Designator=C2 Old Footprint=PCAP_8x10-ELECT New Footprint=PCAP_8x10-ELECT
+Change Physical Footprint: Designator=L1 Old Footprint=PA4309.334NLT New Footprint=PA4309.334NLT

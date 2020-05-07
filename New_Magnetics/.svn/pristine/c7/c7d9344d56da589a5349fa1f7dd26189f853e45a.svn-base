@@ -1,0 +1,8 @@
+Added Component: Designator=P_FAN(SHDR2W140P0X952_1X2_1954X1250X2180P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_NET Pin=P_FAN-1
+Added Pin To Net: NetName=GND Pin=P_FAN-2
+Added Member To Class: ClassName=U_Power_Stage Member=Component P_FAN HFAN
