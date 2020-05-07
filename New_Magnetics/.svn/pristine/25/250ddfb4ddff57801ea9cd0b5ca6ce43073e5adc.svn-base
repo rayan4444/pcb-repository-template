@@ -1,6 +1,0 @@
-Change Component Designator: OldDesignator=CP? NewDesignator=CP22
-Change Component Designator: OldDesignator=CP? NewDesignator=CP30
-Change Component Designator: OldDesignator=RI? NewDesignator=RI17
-Change Component Designator: OldDesignator=RI? NewDesignator=RI18
-Added Member To Class: ClassName=U_Power_Stage Member=Component CP22 22uF
-Added Member To Class: ClassName=U_I_ADC_Buffering Member=Component RI17 10k

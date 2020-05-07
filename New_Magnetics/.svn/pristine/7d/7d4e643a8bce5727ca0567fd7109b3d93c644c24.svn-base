@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=ADCINB4_P Pin=CI17-1
-Removed Pin From Net: NetName=ADCINB4_N Pin=CI17-2
-Removed Pin From Net: NetName=ADCINB4_N Pin=RI11-1
-Removed Pin From Net: NetName=ADCINB4_P Pin=RI12-1
-Added Pin To Net: NetName=ADCINB4_N Pin=CI17-1
-Added Pin To Net: NetName=ADCINB4_P Pin=CI17-2
-Added Pin To Net: NetName=ADCINB4_P Pin=RI11-1
-Added Pin To Net: NetName=ADCINB4_N Pin=RI12-1
